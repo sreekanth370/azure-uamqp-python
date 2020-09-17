@@ -1,4 +1,5 @@
 language: python
+arch: ppc64le
 cache: pip
 dist: xenial
 matrix:
